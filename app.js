@@ -1,4 +1,4 @@
-// api key : 77c91a08298067d0da48acb89285af92
+// api key : 382d2a889e71187c6ddb129e5f73d437
 
 // SELECT ELEMENTS
 const iconElement = document.querySelector(".weather-icon");
@@ -17,7 +17,7 @@ weather.temperature = {
 // APP CONSTS AND VARS
 const KELVIN = 273;
 // API KEY
-const key = "77c91a08298067d0da48acb89285af92";
+const key = "382d2a889e71187c6ddb129e5f73d437";
 
 // CHECK IF BROWSER SUPPORTS GEOLOCATION
 if('geolocation' in navigator){
